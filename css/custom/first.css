@@ -1,0 +1,166 @@
+.checkpoint-pl-data{
+  padding-left: 15px;
+}
+.checkpoint-pl-icon{
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  margin-right: 10px;
+  padding-right: 10px;
+  width: 40px;
+  padding: 10px 0px;
+  text-align: center;
+  float: left;
+}
+.checkpoint-pl-text-left{
+  text-align: left !important;
+}
+.checkpoint-pl-search-icon{
+  padding: 5px 5px 5px 0px;
+}
+.mess-list{
+  padding: 70px 10px 10px 10px;
+  margin-right: 350px;
+}
+.weight300{
+  font-weight: 300;
+}
+.italic {
+  font-style: italic;
+}
+.colorDark{
+  color: #434a54;
+}
+.mess-box{
+  float: right;
+  width: 350px;
+  right: -350px;
+  padding: 10px;
+  min-height: 100%;
+  background: rgba(0, 0, 0, 0.02);
+  border-left: 1px solid #DDD;
+}
+.loader {
+  position: absolute;
+  z-index: 111;
+  left: 37%;
+  top: 40%;
+  background: whitesmoke;
+  border: 1px solid;
+  padding: 20px;
+  text-align: center;
+}
+
+.dinamic{
+  position: absolute;
+  transition: all 200ms ease;
+}
+
+.show_frame{
+  right: 0px !important;
+}
+.row-content{
+  position: relative;
+  float: left;
+  width: 100%;
+}
+
+.mrg0 {
+    margin: 0px !important;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.x-nav_my {
+    background: inherit !important;
+}
+.group-image{
+    float: left;
+    margin-right: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+.group-user-image{
+    float: left;
+    margin-right: 20px;
+    width: 80px;
+    height: 80px;
+}
+
+.group-image img{
+    width: 100px;
+}
+
+.group-remove{
+    position: absolute;
+    width: 30px;
+    right: 15px;
+    height: 30px;
+    text-align: center;
+    line-height: 27px;
+    color: #FFF;
+    border: 1px solid black;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-transition: all 200ms ease;
+    -moz-transition: all 200ms ease;
+    -ms-transition: all 200ms ease;
+    -o-transition: all 200ms ease;
+    transition: all 200ms ease;
+    opacity: 0.4;
+    filter: alpha(opacity = 40);
+}
+
+.ya_icon{
+    max-width: 100%;
+    margin-right: 2px;
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.ya_icon:hover{
+    opacity: 1;
+    text-decoration: underline;
+}
+
+.td_a a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.right {float:right !important;}
+.left {float:left !important;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
